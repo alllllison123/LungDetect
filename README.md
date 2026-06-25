@@ -11,10 +11,7 @@ This AI-powered assistant analyzes chest X-rays to detect signs of lung diseases
 - **Deployment:** Replit Cloud ☁️  
 - **AI Model:** Trained using medical image datasets for accuracy and insight  
 
-## 🖼️ Screenshots  
-*(Add your app screenshots here!)*  
-
 ## 🙌 Credits  
-Built with care by [Your Name] — dedicated to using AI for better, faster medical insights.  
+Built with care by Allison — dedicated to using AI for better, faster medical insights.  
 Thanks to the open‑source and healthcare AI communities for inspiration and datasets that made this possible.  
 

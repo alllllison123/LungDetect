@@ -1,5 +1,4 @@
 # LungDetect
-```markdown
 # 🩺 X-ray Lung Disease Diagnosis Assistant  
 **Live Demo:** [https://xraylungdiagnosis.replit.app/](https://xraylungdiagnosis.replit.app/)  
 *(Password: `password12345678`)*  
@@ -18,4 +17,4 @@ This AI-powered assistant analyzes chest X-rays to detect signs of lung diseases
 ## 🙌 Credits  
 Built with care by [Your Name] — dedicated to using AI for better, faster medical insights.  
 Thanks to the open‑source and healthcare AI communities for inspiration and datasets that made this possible.  
-```
+
